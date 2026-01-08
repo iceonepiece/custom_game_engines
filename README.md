@@ -69,6 +69,7 @@ Here we have the medium-small companies that decided to create their custom tech
 | [Santa Monica Studio](https://en.wikipedia.org/wiki/SIE_Santa_Monica_Studio)  | +200 | *custom engine*        | God Of War series    |
 | [id Software](https://en.wikipedia.org/wiki/Id_Software)                  | +200  | [idTech 6/7](https://en.wikipedia.org/wiki/Id_Tech)                   | Doom, Doom Eternal, Wolfenstein series            |
 | [Sucker Punch](https://en.wikipedia.org/wiki/Sucker_Punch_Productions)    | +200  | [*custom engine*](https://www.suckerpunch.com/iss-engine-gdc2014)     | Infamous Second Son, Ghost of Tsushima?           |
+| [4A Games](https://en.wikipedia.org/wiki/4A_Games)                        | +200  | [4A Engine](https://www.digitalfoundry.net/articles/digitalfoundry-metro2033-article)     | Metro series           |
 | [Insomniac Games](https://en.wikipedia.org/wiki/Insomniac_Games)          | ~180  | [Insomniac Engine](https://blog.us.playstation.com/2018/09/06/insomniac-interview-the-tech-behind-marvels-spider-man)     | Rachet&Clank series, Marvel's Spider-Man |     
 | [Quantic Dreams](https://en.wikipedia.org/wiki/Quantic_Dream)             | ~180  | [*custom engine*](https://www.gamepur.com/news/dev-detroit-become-human-on-ps4-to-be-powered-by-a-new-graphics-engine)    | Detroit: Become Human |
 | [IO Interactive](https://en.wikipedia.org/wiki/IO_Interactive)            | ~170  | [Glacier2](https://fr.wikipedia.org/wiki/Glacier_Engine) | Hitman series |
