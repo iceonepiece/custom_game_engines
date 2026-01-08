@@ -79,6 +79,7 @@ Here we have the medium-small companies that decided to create their custom tech
 | [Frozenbyte](https://en.wikipedia.org/wiki/Frozenbyte)                    | ~100  | [Storm3D](https://www.moddb.com/engines/storm3d)                      | Trine series, Shadowgrounds                       |
 | [Kylotonn](https://en.wikipedia.org/wiki/Kylotonn)                        | ~100  | [KtEngine](https://www.kylotonn.com/en/technology)                   | WRC series, TT Isle of Man series, V-Rally 4      |
 | [TaleWorlds Entertainment](https://en.wikipedia.org/wiki/TaleWorlds_Entertainment)    | ~100 | *custom engine* | Mount & Blade II: Bannerlord |
+| [Spiders](https://en.wikipedia.org/wiki/Spiders_(company))                | +90   | [Silk Engine](https://www.spiders-games.com/silk-engine)             | Greedfall, Steelrising                            |
 | [Daedalic Entertainment](https://en.wikipedia.org/wiki/Daedalic_Entertainment) | ~90  | [Visionaire Studio](https://www.visionaire-studio.net)           | The Whispered World, Deponia series               |
 | [Media Molecule](https://en.wikipedia.org/wiki/Media_Molecule)            |  ~80  | [Bubblebath Engine](https://www.gamesradar.com/dreams-uses-the-bubblebath-engine-and-other-fun-factoids-about-media-molecules-next-game) | Dreams |
 | [Paradox Development Studio](https://en.wikipedia.org/wiki/Paradox_Development_Studio)  | ~80  | [Clausewitz Engine](https://en.wikipedia.org/wiki/Paradox_Development_Studio#Game_engines) |  Imperator: Rome, Stellaris, Europa Universalis series  |
