@@ -52,7 +52,8 @@ Here we have the medium-small companies that decided to create their custom tech
 | [Bungie](https://en.wikipedia.org/wiki/Bungie)                            | ~600  | [Tiger Engine](https://www.gdcvault.com/play/1022106/Lessons-from-the-Core-Engine) | Destiny series       |
 | [Infinity Ward](https://en.wikipedia.org/wiki/Infinity_Ward)              | +500  | [IW 7.0](https://en.wikipedia.org/wiki/IW_engine)                     | Call of Duty: Infinite Warfare    |
 | [Eidos-Montréal](https://en.wikipedia.org/wiki/Eidos-Montr%C3%A9al)       | ~500  | [Dawn Engine](https://fr.wikipedia.org/wiki/Dawn_Engine) (Glacier2-based) | Deus Ex: Mankind Divided      |
-| [Bethesda](https://en.wikipedia.org/wiki/Bethesda_Game_Studios)           | ~400  | [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine)      | Skyrim, Fallout 4, Fallout 76                     |    
+| [Bethesda](https://en.wikipedia.org/wiki/Bethesda_Game_Studios)           | ~400  | [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine)      | Skyrim, Fallout 4, Fallout 76                     |  
+| [SCS Software](https://en.wikipedia.org/wiki/SCS_Software)                | ~400  | [Prism3D](https://www.scssoft.com/technology)                         | Truck Simulator series                            |
 | [Valve Corp.](https://en.wikipedia.org/wiki/Valve_Corporation)            | ~360  | [Source 2](https://en.wikipedia.org/wiki/Source_2)                    | Dota 2, Half-Life: Alyx                           |
 | [Crystal Dynamics](https://en.wikipedia.org/wiki/Crystal_Dynamics)        | ~350  | [Foundation Engine](https://en.everybodywiki.com/Foundation_Engine)   | Rise/Shadow of the Tomb Raider                    |
 | [Avalanche Studios](https://en.wikipedia.org/wiki/Avalanche_Studios_Group) | ~320 | Apex engine | Just Cause series, Renegade Ops, Mad Max, RAGE 2        | 
